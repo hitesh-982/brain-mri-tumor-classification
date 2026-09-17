@@ -1,0 +1,30 @@
+# Python / Pycache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+
+# Dataset image directories (raw data)
+glioma/
+meningioma/
+notumor/
+pituitary/
+
+# Large model checkpoints (>100MB)
+models/*.keras
+
+# Node / React Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.nx/
+.DS_Store
+
+# Virtual environment / IDE
+.idea/
+.vscode/
+*.swp

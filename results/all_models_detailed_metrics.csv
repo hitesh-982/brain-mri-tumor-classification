@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Sensitivity (Recall),Specificity,F1 Score,ROC-AUC
+Baseline Attention CNN,85.30%,86.58%,85.27%,95.13%,85.18%,0.9743
+EfficientNetV2B0,89.07%,89.09%,88.89%,96.38%,88.74%,0.9882
+DenseNet121,92.36%,92.21%,92.22%,97.47%,92.15%,0.9895
+ResNet50,94.00%,93.98%,93.94%,98.02%,93.88%,0.9929
