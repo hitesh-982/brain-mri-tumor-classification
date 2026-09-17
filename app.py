@@ -1,7 +1,3 @@
-"""
-Streamlit Web Application for 4-Class Brain MRI Tumor Classification
-Serving ResNet50, DenseNet121, EfficientNetV2B0, and Baseline Attention CNN
-"""
 import os
 import glob
 import json
